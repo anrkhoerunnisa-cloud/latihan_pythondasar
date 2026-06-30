@@ -1,0 +1,15 @@
+
+{
+  "ayam": {
+    "nama": "Ayam🐔",
+    "harga": 15000
+  },
+  "sapi": {
+    "nama": "Sapi🐮",
+    "harga": 12000
+  },
+  "babi": {
+    "nama": "Babi🐷",
+    "harga": 10000
+  }
+}
